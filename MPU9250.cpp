@@ -78,7 +78,7 @@ int MPU9250Start()
     }
 
     std::string strHomePath = homedir;
-    std::string strINIPath = strHomePath + "/.config/RTIMULib.ini";
+    std::string strINIPath = strHomePath + "/.config/RTIMULib";
 
 
     mySetting = new RTIMUSettings(strINIPath.c_str());
