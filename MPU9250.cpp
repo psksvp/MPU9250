@@ -1,6 +1,5 @@
 /**
- PiSensors JVM jni module
- jni interface for Raspberry pi sense hat's IMU sensors
+ MPU9250 IMU sensors
  
  The BSD 3-Clause License
  Copyright (c) 2015, Pongsak Suvanpong (psksvp@gmail.com)
